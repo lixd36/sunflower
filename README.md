@@ -1,2 +1,2 @@
 welcome to git,
-please begin your first lab.
+please begin your first lab!
